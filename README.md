@@ -1,1 +1,1 @@
-https://www.linkedin.com/in/wqt/
+[@LinkedIn](https://www.linkedin.com/in/wqt/)
