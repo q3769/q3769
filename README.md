@@ -2,4 +2,4 @@
 
 [keppelstone@github](https://github.com/orgs/keppelstone/repositories/)
 
-![](https://komarev.com/ghpvc/?username=q3769)
+[![Qingtian Wang profile views](https://u8views.com/api/v1/github/profiles/14980208/views/day-week-month-total-count.svg)](https://u8views.com/github/q3769)
